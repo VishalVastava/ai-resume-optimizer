@@ -16,7 +16,8 @@ An intelligent resume analyzer powered by Generative AI. This Streamlit web app 
 
 ## ✨ Demo
 
-![image](https://github.com/user-attachments/assets/d598252b-1671-4f59-a3e4-ccd872256f8f)
+![image](https://github.com/user-attachments/assets/0dc86e8c-fc6a-4fbd-9f29-c19b11453cde)
+
 
 
 ---
