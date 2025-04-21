@@ -16,8 +16,8 @@ An intelligent resume analyzer powered by Generative AI. This Streamlit web app 
 
 ## ✨ Demo
 
-![App Demo](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/assets/demo.gif)  
-_(Replace with your actual demo if you upload a GIF)_
+![image](https://github.com/user-attachments/assets/d598252b-1671-4f59-a3e4-ccd872256f8f)
+
 
 ---
 
@@ -118,4 +118,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Your Name](https://github.com/YOUR_USERNAME)
+Made with ❤️ by [Your Name](https://github.com/VishalVastava)
